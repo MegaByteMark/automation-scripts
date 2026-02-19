@@ -1,0 +1,2 @@
+# automation-scripts
+A collection of automation scripts written in Bash and PowerShell
